@@ -1,7 +1,8 @@
 {
-  "version": "1.0.38",
-  "release_notes": "- 게시판에서 서식으로 쓴 글이 HTML 태그로 보이던 문제를 고쳤습니다\n  이미 쓰신 글도 이번 판에서 정상으로 보입니다",
+  "version": "1.0.39",
+  "release_notes": "- 회원이 가입하면 바로 알려 줍니다\n  소리가 나고 화면 가운데에 '(아이디) 님이 회원가입했습니다'가 3초 뜹니다\n  어느 화면을 보고 있어도 뜹니다",
   "changelog": {
+    "1.0.39": "- 회원이 가입하면 바로 알려 줍니다\n  소리가 나고 화면 가운데에 '(아이디) 님이 회원가입했습니다'가 3초 뜹니다\n  어느 화면을 보고 있어도 뜹니다",
     "1.0.38": "- 게시판에서 서식으로 쓴 글이 HTML 태그로 보이던 문제를 고쳤습니다\n  이미 쓰신 글도 이번 판에서 정상으로 보입니다",
     "1.0.37": "- 업데이트할 때 설치 창이 뜨지 않습니다\n  진행 상황은 업데이트 창의 버튼 안에서 보입니다",
     "1.0.36": "- 연장 입금을 처리하면 만료일이 바로 늘어납니다\n  종전에는 입금해도 남은 날짜가 그대로여서 곧 만료로 보였습니다\n- 게시판 글쓰기에 굵게·글씨 크기·그림 넣기가 생겼습니다\n- 게시판 수정·삭제 버튼을 글 아래로 옮겼습니다\n- 게시판에서 글을 고칠 때 마지막 줄에서 줄바꿈이 되지 않던 문제를 고쳤습니다",
@@ -110,7 +111,7 @@
     "0.9.53": "접속현황 통합표 가독성 개선 — 접속시각 2줄(말줄임 제거)·시리얼 중간토큰만 표시·컬럼 폭 균형. PC사양 팝업에 힐러 버전 추가. 보드 USB 라이브 정보 '꽂힘 미응답'(폴링 포트충돌) 수정.",
     "0.9.52": "접속현황 좌석=구독수·PC사양(접속중/과거) 실데이터 연동, 보드 꽂힘 시 행 자동선택+우측 USB 정보 표시, 전 화면 Pretendard 폰트 통일. 새 Qt 화면을 정식 기본으로 전환(구 화면은 --ctk 폴백)."
   },
-  "download_url": "https://cdn.lincllab.com/admin/v1.0.38/LinClAdmin_Setup.exe",
-  "download_url_github": "https://github.com/kimyncap-bit/LinCl-Admin-Releases/releases/download/v1.0.38/LinClAdmin_Setup.exe",
-  "sha256": "971e6f964a051a362022b2e2f03ef45495fcfadb4982d5afdd1b07bdc6f7fc7e"
+  "download_url": "https://cdn.lincllab.com/admin/v1.0.39/LinClAdmin_Setup.exe",
+  "download_url_github": "https://github.com/kimyncap-bit/LinCl-Admin-Releases/releases/download/v1.0.39/LinClAdmin_Setup.exe",
+  "sha256": "5011305f78056a877b42d085daa37a0c816cbc65c7776264609ae88bbd6edf77"
 }
