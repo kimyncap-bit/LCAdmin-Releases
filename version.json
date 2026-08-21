@@ -1,7 +1,8 @@
 {
-  "version": "1.0.49",
-  "release_notes": "- 보드 상세의 '회원 배정' 제목과 [미배정으로 변경] 단추가 같은 줄에 놓입니다\n- USB 배정 뒤 뜨던 경고 문구를 바로잡았습니다\n  저장은 이미 끝난 상태인데 실패처럼 읽히던 것을 고쳤습니다\n",
+  "version": "1.0.50",
+  "release_notes": "- 접속현황의 '보유상품'에서 USB배송을 뺐습니다\n  USB는 모든 상품에 필요한 것이라 줄마다 붙어 군더더기였습니다\n",
   "changelog": {
+    "1.0.50": "- 접속현황의 '보유상품'에서 USB배송을 뺐습니다\n  USB는 모든 상품에 필요한 것이라 줄마다 붙어 군더더기였습니다\n",
     "1.0.49": "- 보드 상세의 '회원 배정' 제목과 [미배정으로 변경] 단추가 같은 줄에 놓입니다\n- USB 배정 뒤 뜨던 경고 문구를 바로잡았습니다\n  저장은 이미 끝난 상태인데 실패처럼 읽히던 것을 고쳤습니다\n",
     "1.0.48": "- 프로그램을 켤 때 로딩 표시가 두 번 바뀌어 보이던 것을 고쳤습니다\n  같은 모양으로 이어지도록 맞춰 시작 화면이 매끄러워집니다\n",
     "1.0.47": "- 앱을 켜 둔 채로도 새 버전이 나오면 알려줍니다\n  상단 오른쪽 버전 옆에 초록색으로 표시되고, 누르면 바로 업데이트됩니다\n  10분마다 확인하며 팝업이나 소리는 없습니다\n  그동안은 앱을 껐다 켜야만 알 수 있었습니다\n- 구독 카드에서 만료일을 직접 고칠 수 있습니다\n  결제를 고쳐도 구독 만료일이 그대로 남던 경우에 씁니다\n  잘못 골랐으면 바로 옆 '되돌리기'로 복구됩니다",
@@ -121,7 +122,7 @@
     "0.9.53": "접속현황 통합표 가독성 개선 — 접속시각 2줄(말줄임 제거)·시리얼 중간토큰만 표시·컬럼 폭 균형. PC사양 팝업에 힐러 버전 추가. 보드 USB 라이브 정보 '꽂힘 미응답'(폴링 포트충돌) 수정.",
     "0.9.52": "접속현황 좌석=구독수·PC사양(접속중/과거) 실데이터 연동, 보드 꽂힘 시 행 자동선택+우측 USB 정보 표시, 전 화면 Pretendard 폰트 통일. 새 Qt 화면을 정식 기본으로 전환(구 화면은 --ctk 폴백)."
   },
-  "download_url": "https://cdn.lincllab.com/admin/v1.0.49/LinClAdmin_Setup.exe",
-  "download_url_github": "https://github.com/kimyncap-bit/LinCl-Admin-Releases/releases/download/v1.0.49/LinClAdmin_Setup.exe",
-  "sha256": "9121c97db666a8218637a1cbb8dd2a18212bb394d27532aa11c184dd33527d1a"
+  "download_url": "https://cdn.lincllab.com/admin/v1.0.50/LinClAdmin_Setup.exe",
+  "download_url_github": "https://github.com/kimyncap-bit/LinCl-Admin-Releases/releases/download/v1.0.50/LinClAdmin_Setup.exe",
+  "sha256": "ba02733d1fb1e5ba72a220dbf5a95f30010e76e3c5925ded241678c3e7227d2b"
 }
